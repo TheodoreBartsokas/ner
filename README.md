@@ -18,4 +18,4 @@ A detailed report describing the methodology, implementation, and results can be
 
 ## Example Outputs
 
-The file example_outputs.txt contains the formatted outputs for the first 20 entries of the given dataset.
+The file example_outputs.csv contains the formatted outputs for the first 20 entries of the given dataset.
