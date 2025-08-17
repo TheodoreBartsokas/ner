@@ -14,7 +14,7 @@ python extract_names.py
 
 ## Report
 
-A detailed report describing the methodology, implementation, and results can be found here: https://www.overleaf.com/read/jbwczkfpkjxv#aafa93
+A detailed report describing the methodology can be found here: https://www.overleaf.com/read/jbwczkfpkjxv#aafa93
 
 ## Example Outputs
 
