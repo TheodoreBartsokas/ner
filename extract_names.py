@@ -3,6 +3,7 @@ from transformers import pipeline
 import re
 import pandas as pd
 from datasets import load_dataset
+from collections import defaultdict
 
 
 def clean_text_preserve_case(text):
@@ -51,7 +52,6 @@ def batch_extract_person_names(nlp, texts):
 
     #map back to original text
     result = [""] * len(texts)
-    from collections import defaultdict
     agg = defaultdict(list)
     for idx, name in zip(idx_map, chunk_person_names):
         if name:
