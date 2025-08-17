@@ -15,3 +15,7 @@ python extract_names.py
 ## Report
 
 A detailed report describing the methodology, implementation, and results can be found here: https://www.overleaf.com/read/jbwczkfpkjxv#aafa93
+
+## Example Outputs
+
+The file example_outputs.txt contains the formatted outputs for the first 20 entries of the given dataset.
